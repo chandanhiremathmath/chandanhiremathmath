@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Banner.png" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Chandan A Hiremath</h1>
 
