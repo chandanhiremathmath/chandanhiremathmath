@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Chandan A Hiremath
 
-<!--
-**chandanhiremathmath/chandanhiremathmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Machine Learning Engineer | Data Science Enthusiast | AI Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student
+- 🤖 Learning Machine Learning, Deep Learning & Generative AI
+- 💻 Building AI Projects
+- 📚 Currently working on Data Science & ML
+- 🌱 Always learning new technologies
+
+---
+
+## 🛠 Tech Stack
+
+---
+
+## 📈 GitHub Stats
+
+---
+
+## 🏆 GitHub Streak
+
+---
+
+## 💻 Languages
+
+---
+
+## 🚀 Featured Projects
+
+---
+
+## 📜 Certifications
+
+---
+
+## 📫 Connect With Me
