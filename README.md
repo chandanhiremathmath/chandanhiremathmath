@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Chandan Hiremath</h1>
+<h1 align="center">Hi 👋, I'm Chandan A Hiremath</h1>
 
 <h3 align="center">
 Data Science Enthusiast | Machine Learning | Artificial Intelligence
