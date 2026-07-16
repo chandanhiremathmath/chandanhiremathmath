@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 # Hi 👋 I'm Chandan A Hiremath
 
 ## 🚀 Machine Learning Engineer | Data Science Enthusiast | AI Engineer
