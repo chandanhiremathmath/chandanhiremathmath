@@ -36,7 +36,7 @@ Passionate about solving real-world problems using Machine Learning, Artificial 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chandanhiremathmath&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chandanhiremathmath&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Passionate about solving real-world problems using Machine Learning, Artificial 
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanhiremathmath&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chandanhiremathmath&layout=compact&theme=tokyonight" />
 </p>
 
 ---
